@@ -1,0 +1,16 @@
+{
+  "schema": 181,
+  "kind": "resource-channel",
+  "sequence": 1,
+  "targets": [
+    "7ebcc84813257ba413cf7f23f9aab148d6210375bcaf17105dc03cb6bcba2554",
+    "a96b76c93a25f7f819eef32dfab17b5e951f8e8a332ab689074a89a17a0b4488"
+  ],
+  "updates": [
+    {
+      "base": "5273a1d2d1f7a91c68e4aff6930b33d0c8aa86b251a6bbfdef566958dcc96c9a",
+      "target": "a96b76c93a25f7f819eef32dfab17b5e951f8e8a332ab689074a89a17a0b4488",
+      "sha256": "383ebda4c54ef6ab36034ec1f854c707ebaa74d36a542de7d7e918d037a292ad"
+    }
+  ]
+}
