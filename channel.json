@@ -1,16 +1,21 @@
 {
   "schema": 181,
   "kind": "resource-channel",
-  "sequence": 2,
+  "sequence": 3,
   "targets": [
-    "6620ffe4858821240bbf3507ef525925530fc0d779086b87b0332d32a2389436",
-    "04b85e3fa83d1aeb26db9b175df3833425179a2bd1c2f124c95da71fcb8a4d76"
+    "9aa5a18e57f1d2c3f91e03f9996610cf1035ff4f2fe76bd5d7be18af0192d20e",
+    "dc195005a2997d5712802890f5b95be72fbf4b96b4c056a505fb215695d4dd52"
   ],
   "updates": [
     {
       "base": "4c7a39f7aa266fa91bc082b878abf54547115c35e1d0189f8b6ed9ebd55eaab7",
-      "target": "04b85e3fa83d1aeb26db9b175df3833425179a2bd1c2f124c95da71fcb8a4d76",
-      "sha256": "94eee064035612ea4b8410214e1d404d4ee691402bb6e06fdb36425f312cee41"
+      "target": "dc195005a2997d5712802890f5b95be72fbf4b96b4c056a505fb215695d4dd52",
+      "sha256": "067c9c3d0ef1891cd9d4aa3ccf2c91e6de86172505565870625ee862356cb83e"
+    },
+    {
+      "base": "04b85e3fa83d1aeb26db9b175df3833425179a2bd1c2f124c95da71fcb8a4d76",
+      "target": "dc195005a2997d5712802890f5b95be72fbf4b96b4c056a505fb215695d4dd52",
+      "sha256": "5ddd05dd1105b6c3cc1347e61fc35f98e3e7c08dee16eede0f0ecd7d25b90a24"
     }
   ]
 }
