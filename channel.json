@@ -1,7 +1,7 @@
 {
   "schema": 181,
   "kind": "resource-channel",
-  "sequence": 19,
+  "sequence": 20,
   "targets": [
     "6684bfd2862dc3d983d1cd3a6e4dcf7947cf071510b94fca7357a2b763c11bea",
     "c957f0673cf3c0823b9f23fa09fde2716272914b087abfc87d81372f5740a11b",
@@ -27,7 +27,7 @@
     "c30ebb679fdce10ff3bf0fa27da67b7266390a89e6b0b45a1a96e57f8eeeedd5",
     "9430931a14ca02d75831e51faaae66863c7edadff4540a4d2a324ef5145daf09",
     "f6cd570bbd726133c80f788caa28de7067a12c11e743cfb9aff02bd960779750",
-    "5431259d71e03306b01823ca01d6848fd0555afbffefb94abdd0a29b8663ca1b"
+    "ca9f842fc33550095b4c0b328dce61a395a9c4caa9dc8d0d6dfe264234a12c8e"
   ],
   "updates": [
     {
@@ -74,6 +74,11 @@
       "base": "3e599578bc4be34b702277b2b397bd74c9f6b663ca931132fd24fd336857bf56",
       "target": "4a5691bff11565b7acd37f496cd3eeea0dff6a815ece272ba6cab149c2f1be43",
       "sha256": "9a6a4a121e3fefe1b35c9b4f616960d241ba3cfd8ba213a83a6c9cfd0cd8544b"
+    },
+    {
+      "base": "5431259d71e03306b01823ca01d6848fd0555afbffefb94abdd0a29b8663ca1b",
+      "target": "ca9f842fc33550095b4c0b328dce61a395a9c4caa9dc8d0d6dfe264234a12c8e",
+      "sha256": "92440a59a68488b932c60c02562c2506ad9f8bde69c8fb486e3454d9f4d8c69b"
     }
   ]
 }
