@@ -1,7 +1,7 @@
 {
   "schema": 181,
   "kind": "resource-channel",
-  "sequence": 22,
+  "sequence": 23,
   "targets": [
     "6684bfd2862dc3d983d1cd3a6e4dcf7947cf071510b94fca7357a2b763c11bea",
     "c957f0673cf3c0823b9f23fa09fde2716272914b087abfc87d81372f5740a11b",
@@ -27,7 +27,8 @@
     "c30ebb679fdce10ff3bf0fa27da67b7266390a89e6b0b45a1a96e57f8eeeedd5",
     "9430931a14ca02d75831e51faaae66863c7edadff4540a4d2a324ef5145daf09",
     "f6cd570bbd726133c80f788caa28de7067a12c11e743cfb9aff02bd960779750",
-    "c4f4dcee39c1e591b0d1ae9aa21a66bebabfcc8aff9a7b898ce85f6d0ce22633"
+    "c4f4dcee39c1e591b0d1ae9aa21a66bebabfcc8aff9a7b898ce85f6d0ce22633",
+    "056a3a43cacc2d6749494274ae50119e9aa3958b9a1200387b4ed04287059d61"
   ],
   "updates": [
     {
